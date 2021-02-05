@@ -10,7 +10,11 @@ It is a replacement for the old Watchout4snakes service.
 The app returns a random 5 to 8 letter English word suitable for use
 in playing the game "Hangman".
 
-This code is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+The app is online at `http://randomword.saasbook.info`.
+**Note:** The current deployment works only over plain HTTP, not HTTPS.
+
+This code is licensed under
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
 
 Future enhancements could include respecting a Locale argument.
 
